@@ -1,0 +1,1 @@
+This repo contains the introductory file commits for the VM lessons
